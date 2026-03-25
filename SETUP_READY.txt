@@ -1,0 +1,134 @@
+═══════════════════════════════════════════════════════════════════
+  LUSSO CHICKEN - SIMPLE DEPLOYMENT SETUP
+  Just Fill in Your Details & Follow Steps
+═══════════════════════════════════════════════════════════════════
+
+📋 YOUR INFORMATION TO FILL IN:
+
+GitHub Username: _______________________
+GitHub Email: _________________________
+Strong Password: ______________________
+
+WhatsApp Number: +9689382411 ✓ (Already set)
+
+═══════════════════════════════════════════════════════════════════
+READY-TO-USE SETTINGS
+═══════════════════════════════════════════════════════════════════
+
+REPOSITORY NAME (Copy Exactly):
+yourusername.github.io
+
+Example: If username is "gazul" → gazul.github.io
+
+DESCRIPTION (Copy Exactly):
+Lusso Chicken - Saudi Authentic Broasted Chicken
+
+WEBSITE URL (After deployment):
+https://yourusername.github.io
+
+Example: https://gazul.github.io
+
+═══════════════════════════════════════════════════════════════════
+3 SIMPLE STEPS
+═══════════════════════════════════════════════════════════════════
+
+✅ STEP 1: SIGN UP ON GITHUB (2 minutes)
+────────────────────────────────────────
+1. Open browser
+2. Go to: https://github.com/signup
+3. Enter:
+   - Username: [Your chosen username]
+   - Email: [Your email]
+   - Password: [Strong password]
+4. Click "Create account"
+5. Check your email for verification
+6. Click verify link
+
+
+✅ STEP 2: CREATE REPOSITORY (1 minute)
+──────────────────────────────────────
+1. After login, click "+" (top right)
+2. Click "New repository"
+3. Fill in:
+   - Repository name: yourusername.github.io
+   - Description: Lusso Chicken - Saudi Authentic Broasted Chicken
+   - Public: YES
+4. Click "Create repository"
+
+
+✅ STEP 3: UPLOAD YOUR FILES (5 minutes)
+──────────────────────────────────────
+1. Click "Add file" → "Upload files"
+2. Drag & drop these from c:\qqwwee\ folder:
+   ✓ index.html
+   ✓ css folder
+   ✓ js folder
+   ✓ img folder
+   ✓ README.md
+3. Click "Commit changes"
+
+
+✅ STEP 4: WAIT & VIEW (5 minutes)
+──────────────────────────────────
+Wait 5 minutes, then open:
+https://yourusername.github.io
+
+═══════════════════════════════════════════════════════════════════
+READY-TO-COPY COMMANDS (If using GitHub Desktop/Git)
+═══════════════════════════════════════════════════════════════════
+
+If you want to use Git commands:
+
+1. Open PowerShell in c:\qqwwee\
+
+2. Run these commands one by one:
+
+   git config --global user.name "your-username"
+   git config --global user.email "your-email@gmail.com"
+   git init
+   git add .
+   git commit -m "Lusso Chicken Website"
+   git branch -M main
+   git remote add origin https://github.com/your-username/your-username.github.io.git
+   git push -u origin main
+
+═══════════════════════════════════════════════════════════════════
+❓ WHAT TO DO AFTER DEPLOYMENT
+═══════════════════════════════════════════════════════════════════
+
+1. Your website is LIVE at: https://yourusername.github.io
+2. Test on phone - WhatsApp button should open chat
+3. Add food photos to img/ folder
+4. Share link with customers
+5. Website updates automatically when you change files
+
+═══════════════════════════════════════════════════════════════════
+TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════════
+
+WhatsApp not working on phone?
+→ Check WhatsApp is installed
+→ Check phone number: +9689382411
+→ Try refreshing page
+
+Website not showing?
+→ Wait 5+ minutes after upload
+→ Go to GitHub Settings → Pages → Check it's enabled
+→ Clear browser cache (Ctrl+Shift+Delete)
+
+Need to update website?
+→ Edit files in c:\qqwwee\
+→ Go to GitHub, Upload files again
+→ Website updates automatically!
+
+═══════════════════════════════════════════════════════════════════
+PROVIDE ME:
+═══════════════════════════════════════════════════════════════════
+
+When ready, tell me:
+✓ Your GitHub username
+✓ Your GitHub email  
+✓ Your GitHub password (I won't see it, just for reference)
+
+I will verify your settings are correct!
+═══════════════════════════════════════════════════════════════════
